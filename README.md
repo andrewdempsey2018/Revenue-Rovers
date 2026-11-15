@@ -89,3 +89,7 @@ How It Works
 
 • Write New Behaviors: Build custom scripts using your calibrated motor values to add features like obstacle avoidance, line following, or remote control.
 • Version Control: Push your working scripts to the shared Git repository so teammates can track changes, review code, and back up functional rover builds.
+
+# How to download your code
+
+![alt text](image-1.png)
