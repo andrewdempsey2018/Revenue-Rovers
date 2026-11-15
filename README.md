@@ -27,3 +27,12 @@ To update the firmware on a Raspberry Pi Pico (such as MicroPython or CircuitPyt
 4. Copy the File: Drag and drop the flash_nuke.uf2 file directly into the RPI-RP2 drive.
 5. Wait for Completion: The Pico will run the nuke script, clear its entire flash memory, and automatically reboot. After about 10 seconds, it will remount as a blank mass storage device.
 Once wiped, you can drag and drop a fresh firmware file (such as MicroPython or CircuitPython) onto the drive to start clean.
+
+# Thonny
+Thonny is a free, lightweight Python Integrated Development Environment (IDE) built specifically for students. Developed at the University of Tartu in Estonia, it strips away the overwhelming clutter of professional editors and bundles its own copy of Python so you can start coding immediately.
+
+It connects directly over USB to microcontrollers like the Raspberry Pi Pico or ESP32, making it a go-to tool for basic electronics and robotics.
+
+Get it here:
+
+https://thonny.org/
