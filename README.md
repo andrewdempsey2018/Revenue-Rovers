@@ -93,3 +93,6 @@ How It Works
 # How to download your code
 
 ![alt text](image-1.png)
+
+# Step 1
+![alt text](image-2.png)
